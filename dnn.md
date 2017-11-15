@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning
+title: DeepLearning
 permalink: /Simple tutorial for deep learning using Tensor Flow/
 ---
 
